@@ -29,7 +29,7 @@ This project follows a **Microservices Architecture**, with each service respons
    - Responsible for **Role-Based Authentication**, **Authorization**, and **Member Routing**.  
 
 ### API Documentation  
-- Postman Collection: [Click here to view](https://postman.co/workspace/My-Workspace~ea8525f4-631b-48a4-8869-ffae1f0aa998/collection/32005719-32c7a4b2-321b-400b-b3ff-1fbf0421a14e?action=share&creator=32005719](https://www.postman.com/mohamedgamal167/workspace/code-81/collection/32005719-32c7a4b2-321b-400b-b3ff-1fbf0421a14e?action=share&creator=32005719))  
+- Postman Collection: [Click here to view](https://www.postman.com/mohamedgamal167/workspace/code-81/collection/32005719-32c7a4b2-321b-400b-b3ff-1fbf0421a14e?action=share&creator=32005719)  
 
 ### Running the Project  
 Make sure to run the following command inside one of the services before starting the application:  
