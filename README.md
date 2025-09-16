@@ -9,7 +9,7 @@
 This project follows a **Microservices Architecture**, with each service responsible for a specific domain.  
 
 ### Key Features  
-- **Each service has its own SQL schema** (database per service pattern).  
+- **Each service has its own SQL schema** .  
 - **Database migration** support for version control.  
 - **API Gateway** using Spring Cloud with OpenFeign for service-to-service communication.  
 - **JWT Authentication** with **Role-Based Authorization**.  
@@ -18,6 +18,7 @@ This project follows a **Microservices Architecture**, with each service respons
 - **Rate Limiting** to protect APIs from abuse.  
 - **API Documentation** using Swagger/OpenAPI.  
 - **Member Activity Logs** for tracking actions.  
+- **Pagination** .  
 
 ### Microservices  
 1. **Books Service**  
