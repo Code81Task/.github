@@ -16,6 +16,7 @@ This project follows a **Microservices Architecture**, with each service respons
 - **Member management** with full CRUD support.  
 - **Race condition handling** in critical transactions.  
 - **Rate Limiting** to protect APIs from abuse.  
+- **Schdeuler** to calc over due.  
 - **API Documentation** using Swagger/OpenAPI.  
 - **Member Activity Logs** for tracking actions.  
 - **Pagination** .  
